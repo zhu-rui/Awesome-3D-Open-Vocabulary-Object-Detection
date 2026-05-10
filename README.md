@@ -2,8 +2,10 @@
 
 Our paper [Awesome-3D-Open-Vocabulary-Object-Detection](www.google.com)
 
-图片（待定）
-
+<p align="center">
+  <img src="./image.png" style="display:block;margin:0;padding:0;">
+  <img src="./image-1.png" style="display:block;margin:0;padding:0;">
+</p>
 ## Papers
 
 ### 2026
