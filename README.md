@@ -13,12 +13,12 @@ Several studies do not release their source code or provide publicly accessible 
 
 ### 2023
 **CVPR 2023 (Accepted Papers)**
-- OV-3DET: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Open-Vocabulary_Point-Cloud_Object_Detection_Without_3D_Annotation_CVPR_2023_paper.pdf)][[code](https://github.com/yangtiming/ImOV3D)]
+- OV-3DET: Open-Vocabulary Point-Cloud Object Detection without 3D Annotation[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Open-Vocabulary_Point-Cloud_Object_Detection_Without_3D_Annotation_CVPR_2023_paper.pdf)][[code](https://github.com/lyhdet/OV-3DET)]
 
 **NeurIPS 2023 (Accepted Papers)**
 - CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection[[paper](https://arxiv.org/pdf/2310.02960)][[code](https://github.com/yangcaoai/CoDA_NeurIPS2023)]
 
-**ICCV 2023 (Accpeted Papers)**
+**ICCV 2023 (Accepted Papers)**
 - UP-VL: Unsupervised 3D Perception with 2D Vision-Language Distillation for Autonomous Driving[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Najibi_Unsupervised_3D_Perception_with_2D_Vision-Language_Distillation_for_Autonomous_Driving_ICCV_2023_paper.pdf)]
 
 **arxiv 2023**
@@ -27,7 +27,7 @@ Several studies do not release their source code or provide publicly accessible 
 ### 2024
 **NeurIPS 2024 (Accepted Papers)**
 - ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images[[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ff9783ec29688387d44779d67d06ef66-Paper-Conference.pdf)][[code](https://github.com/yangtiming/ImOV3D)]
-- 0VM3D-Det: Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data[[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8492211e9176b8abdaeb1f7aa4c223ea-Paper-Conference.pdf)][[code](https://github.com/LeapLabTHU/OVM3D-Det/tree/main)]
+- OVM3D-Det: Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data[[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8492211e9176b8abdaeb1f7aa4c223ea-Paper-Conference.pdf)][[code](https://github.com/LeapLabTHU/OVM3D-Det/tree/main)]
 
 **AAAI 2024 (Accepted Papers)**
 - FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29612)][[code](https://github.com/dmzhang0425/FM-OV3D)]
