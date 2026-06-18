@@ -5,7 +5,7 @@ Our paper [Open-Vocabulary 3D Object Detection: A Taxonomy and Protocol-Aware Su
 Several studies do not release their source code or provide publicly accessible implementation repositories.
 
 <p align="center">
-  <img src="./image-1.png" style="display:block;margin:0;padding:0;">
+  <!-- <img src="./image-1.png" style="display:block;margin:0;padding:0;"> -->
   <img src="./image.png" style="display:block;margin:0;padding:0;">
 </p>
 
